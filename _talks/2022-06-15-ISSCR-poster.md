@@ -2,9 +2,9 @@
 title: "Modeling Extra-Embryonic Mesoderm Lineage Development With Human Induced Pluripotent Stem Cells"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-06-ISSCR-poster
+permalink: /talks/2022-06-15-ISSCR-poster
 venue: "International Society for Stem Cell Research"
-date: 2022-06
+date: 2022-06-15
 location: "San Francisco, Califoria, USA"
 ---
 

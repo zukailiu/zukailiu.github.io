@@ -26,7 +26,7 @@ author_profile: true
 
 <li> Gong, Y.#, <b>Liu, Z.#</b>, Yuan, Y.#, Yang, Z.#, Zhang, J., Lu, Q., Wang, W., Fang, C., Lin, H. and Liu, S., 2022. <a href="https://doi.org/10.1038/s41467-022-29309-1">PUMILIO proteins promote colorectal cancer growth via suppressing p21.</a> Nature communications, 13(1), p.1627.</li>
 
-<li> Wang, B.#, <b>Liu, Z.#</b>, Chen, V.P., Wang, L., Inman, C.L., Zhou, Y., Guo, C., Tchkonia, T., Rowe, D.W., Kuchel, G.A. and Robson, P., 2020. <a href=" https://doi.org/10.1111/acel.13106">Transplanting cells from old but not young donors causes physical dysfunction in older recipients.</a> Aging cell, 19(3), p.e13106.</li>
+<li> Wang, B.#, <b>Liu, Z.#</b>, Chen, V.P., Wang, L., Inman, C.L., Zhou, Y., Guo, C., Tchkonia, T., Rowe, D.W., Kuchel, G.A. and Robson, P., 2020. <a href="https://doi.org/10.1111/acel.13106">Transplanting cells from old but not young donors causes physical dysfunction in older recipients.</a> Aging cell, 19(3), p.e13106.</li>
 
 <li> Liu, S.#, Wang, Z.#, <b>Liu, Z.#</b>, Shi, S., Zhang, Z., Zhang, J. and Lin, H., 2018. <a href="https://doi.org/10.1093/jmcb/mjy041">miR-221/222 activate the Wnt/β-catenin signaling to promote triple-negative breast cancer.</a> Journal of Molecular Cell Biology, 10(4), pp.302-315.</li>
 
