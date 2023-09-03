@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Zukai Liu"
 title_separator          : "-"
-name                     : &name "Zukai Liu"
-description              : &description "PhD student at Uconn Health & the Jackson Labotorary"
+name                     : &name "Zukai Liu 刘族凯"
+description              : &description "PhD student at Uconn Health & The Jackson Labotorary"
 url                      : https://zukailiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -18,7 +18,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpt
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -83,10 +83,10 @@ author:
   name             : "Zukai Liu"
   avatar           : "Zukai_Liu.png"
   bio              : "PhD student at Uconn Health & the Jackson Labotorary"
-  location         : "Farmington, CT, USA"
+  location         : "Farmington, Connecticut"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=GDpQkjIAAAAJ&hl=en"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

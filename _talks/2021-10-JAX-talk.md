@@ -1,0 +1,12 @@
+---
+title: "Modeling Extra-Embryonic Mesoderm Lineage Development With Human Induced Pluripotent Stem Cells"
+collection: talks
+type: "Talk"
+permalink: /talks/2021-10-JAX-talk
+venue: ""
+date: 2021-10
+location: "Online due to COVID-19"
+---
+
+Liu was selected to give a talk at the Scientific Symposium at the Jackson Laboratory.
+
