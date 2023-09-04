@@ -13,7 +13,7 @@ name                     : &name "Zukai Liu 刘族凯"
 description              : &description "PhD student at Uconn Health & The Jackson Labotorary"
 url                      : https://zukailiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : ""
+repository               : "zukailiu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zukai Liu"
   avatar           : "Zukai_Liu.png"
-  bio              : "PhD student at Uconn Health & the Jackson Labotorary"
+  bio              : "PhD student at Uconn Health & The Jackson Labotorary"
   location         : "Farmington, Connecticut"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
