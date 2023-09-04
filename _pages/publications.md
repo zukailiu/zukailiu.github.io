@@ -15,7 +15,7 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 <h1>First/co-First Author</h1>
 <ol>
 
-<li> <b>Liu, Z.</b>, Tan, Y., Flynn, W., Sun, L., Pratumkaew, P., Diniz, J., Oliveira, N., McDonough, J., Skarnes, W., Robson P., (2023+). A trophoblast origin of extra-embryonic mesenchyme in human early development. <i>Under Revision in Cell Stem Cell</i> </li>
+<li> <b>Liu, Z.</b>, Tan, Y., Flynn, W., Sun, L., Pratumkaew, P., Diniz, J., Oliveira, N., McDonough, J., Skarnes, W., Robson P., (2023+). A trophoblast origin of extra-embryonic mesenchyme in human early development. <i>Under Revision</i> </li>
 
 <li> <b>Liu, Z.*</b>, Jillette N. Robson, P., Cheng, A.W., 2023. <a href="https://doi.org/10.1093/nar/gkad547"> Simultaneous multifunctional transcriptome engineering by CRISPR RNA scaffold.</a> Nucleic Acids Research.  Volume 51, Issue 14, 11 August 2023, Page e77. </li>
 
