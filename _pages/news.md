@@ -13,7 +13,7 @@ layout: archive
 
 <br>2023.04 Zukai received the Travel Award for 5th Annual RNA Therapeutics Conference.
 
-<br>2023.04 Zukai gave a talk, "Modeling Extra-Embryonic Mesoderm Lineage Development With Human Induced Pluripotent Stem Cells", at the annual review meeting of Board of Scientific Counselors for the Jackson Laboratory For Genomic Medicine. 
+<br>2023.04 Zukai gave a talk, "The evolution of extra-embryonic mesenchymal cells: Origin, mechanism and function", at the annual review meeting of Board of Scientific Counselors for the Jackson Laboratory For Genomic Medicine. 
 
 <br>2022.06 Zukai gave a poster, "Modeling Extra-Embryonic Mesoderm Lineage Development With Human Induced Pluripotent Stem Cells, at the ISSCR 2022 Annual Meeting.
 
