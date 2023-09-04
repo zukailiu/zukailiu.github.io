@@ -4,23 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+You can also find my articles on my <u><a href="https://scholar.google.com/citations?user=GDpQkjIAAAAJ&hl=en">Google Scholar</a></u> profile.
 
-{% if author.googlescholar %}
-  You can also find my articles on my <u><a href="https://scholar.google.com/citations?user=GDpQkjIAAAAJ&hl=en">Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
+<!---
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
 --->
 
 <h1>First/co-First Author</h1>
 <ol>
 
-<li> <b>Liu, Z.</b>, Tan, Y., Flynn, W., Sun, L., Pratumkaew, P., Diniz, J., Oliveira, N., McDonough, J., Skarnes, W., Robson P., (2023+, under revision). A trophoblast origin of extra-embryonic mesenchyme in human early development. <i>Under Revision in Cell Stem Cell<i>
+<li> <b>Liu, Z.</b>, Tan, Y., Flynn, W., Sun, L., Pratumkaew, P., Diniz, J., Oliveira, N., McDonough, J., Skarnes, W., Robson P., (2023+). A trophoblast origin of extra-embryonic mesenchyme in human early development. <i>Under Revision in Cell Stem Cell</i> </li>
 
 <li> <b>Liu, Z.*</b>, Jillette N. Robson, P., Cheng, A.W., 2023. <a href="https://doi.org/10.1093/nar/gkad547"> Simultaneous multifunctional transcriptome engineering by CRISPR RNA scaffold.</a> Nucleic Acids Research.  Volume 51, Issue 14, 11 August 2023, Page e77. </li>
 
@@ -32,14 +27,15 @@ author_profile: true
 
 </ol>
 
-Note: # means co-first author.  
+Note: # means co-first author. 
+
 
 
 <h1>Other</h1>
 <ol>
 
-<li> Hu, J., Zhang, J., Yu, M., <b>Liu, Z.</b>, Zou, Y., Hong, L., Zhang, T., Sun, J., Zheng, M., Zhu, X. and Wang, Z., 2021. <a href="https://doi.org/10.1093/abbs/gmab106">Circulating miR-221/222 reduces CD4+ T cells by inhibiting CD4 expression in colorectal cancer. Acta Biochimica et Biophysica Sinica, 53(10), pp.1367-1376.</li>
+<li> Hu, J., Zhang, J., Yu, M., <b>Liu, Z.</b>, Zou, Y., Hong, L., Zhang, T., Sun, J., Zheng, M., Zhu, X. and Wang, Z., 2021. <a href="https://doi.org/10.1093/abbs/gmab106">Circulating miR-221/222 reduces CD4+ T cells by inhibiting CD4 expression in colorectal cancer. Acta Biochimica et Biophysica Sinica, </a> 53(10), pp.1367-1376.</li>
 
-<li> Wang, J., Ding, K., Chen, Y., Zhang, L., <b>Liu, Z.</b>, Xue, A., Gu, W., Yang, X., Li, X., Huang, J. and Xing, C., 2014. <a href="https://doi.org/10.1021/sb500018f">Detection of thrombin with an aptamer-based macromolecule biosensor using bacterial ghost system. ACS Synthetic Biology, 3(12), pp.963-965.</li>
+<li> Wang, J., Ding, K., Chen, Y., Zhang, L., <b>Liu, Z.</b>, Xue, A., Gu, W., Yang, X., Li, X., Huang, J. and Xing, C., 2014. <a href="https://doi.org/10.1021/sb500018f">Detection of thrombin with an aptamer-based macromolecule biosensor using bacterial ghost system.</a> ACS Synthetic Biology, 3(12), pp.963-965.</li>
 
 </ol>

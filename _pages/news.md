@@ -1,16 +1,12 @@
 ---
-title: "News"
-excerpt: "News"
+permalink: /news/
 author_profile: true
-redirect_from: 
-  - /news/
-  - /news.html
+layout: archive
 ---
 
+<br>2023.08 The research article, ["Simultaneous multifunctional transcriptome engineering by CRISPR RNA scaffold"](https://doi.org/10.1093/nar/gkad547), that Zukai first authored, got published on Nucleic Acids Research.
 
-<br>2023.06 The research article, ["Simultaneous multifunctional transcriptome engineering by CRISPR RNA scaffold."](https://doi.org/10.1093/nar/gkad547), that Zukai first authored, got accepted by Nucleic Acids Research.
-
-<br>2023.06 Zukai presented a talk, "Simultaneously multi-functional transcriptome engineering by CRISPR RNA scaffold", at the 5th Annual RNA Therapeutics Conference | Symposium 2023 RNA Therapeutics Institute (RTI), UMass Medical School. 
+<br>2023.06 Zukai presented a talk, "Simultaneously multi-functional transcriptome engineering by CRISPR RNA scaffold", at the 5th Annual RNA Therapeutics Conference, RNA Therapeutics Institute (RTI), UMass Medical School. 
 
 <br>2023.06 Zukai presented a poster, "The human trophoblast lineage gives rise to extra-embryonic mesenchyme emphasizing early development as a rich source of evolutionary innovation", at the Diversity in A Dish: Pluripotent Stem Cells in Genetic Analysis and Disease Modeling Workshop.
 
@@ -28,7 +24,7 @@ redirect_from:
 
 <br>2022.03 Zukai received the Research Presentation Fellowship from RNA Society.
 
-<br>2022.03 The research article, ["PUMILIO proteins promote colorectal cancer growth via suppressing p21."](https://doi.org/10.1038/s41467-022-29309-1), that Zukai co-first authored, got accepted by Nature Communications.
+<br>2022.03 The research article, ["PUMILIO proteins promote colorectal cancer growth via suppressing p21"](https://doi.org/10.1038/s41467-022-29309-1), that Zukai co-first authored, got accepted by Nature Communications.
 
 <br>2021.12 Zukai gave a talk, "Modeling Extra-Embryonic Mesoderm Lineage Development With Human Induced Pluripotent Stem Cells", at the Society for the Study of Reproduction (SSR) 54th Annual Meeting.
 
