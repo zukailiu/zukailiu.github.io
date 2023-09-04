@@ -3,7 +3,7 @@ title: "The human trophoblast lineage gives rise to extra-embryonic mesenchyme e
 collection: talks
 type: "Poster"
 permalink: /talks/2023-05-24-JAX-poster
-venue: "The Jackson Laboratory."
+venue: "The Jackson Laboratory"
 date: 2023-05-24
 location: "Bar Harbor, Maine, USA"
 ---

@@ -3,7 +3,6 @@ permalink: /news/
 author_profile: true
 layout: archive
 ---
-
 <br>2023.08 The research article, ["Simultaneous multifunctional transcriptome engineering by CRISPR RNA scaffold"](https://doi.org/10.1093/nar/gkad547), that Zukai first authored, got published on Nucleic Acids Research.
 
 <br>2023.06 Zukai presented a talk, "Simultaneously multi-functional transcriptome engineering by CRISPR RNA scaffold", at the 5th Annual RNA Therapeutics Conference, RNA Therapeutics Institute (RTI), UMass Medical School. 
@@ -35,9 +34,3 @@ layout: archive
 <br>2020.06 Zukai passed the preliminary oral defense and became a formal Ph.D. candidate at Uconn Health.
 
 <br>2019.12 The research article, ["Transplanting cells from old but not young donors causes physical dysfunction in older recipients."](https://doi.org/10.1111/acel.13106), that Zukai co-first authored, got accepted by Aging Cell.
-
-<br> 2019.08 Zukai joined the Paul Robson's lab at the Jackson Laboratory as a graduate student.
-
-<br> 2019.08 Zukai joined the Albert Cheng's lab at the Jackson Laboratory as a graduate student.
-
-<br> 2023.06.11 Hello world! 
