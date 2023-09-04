@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2022-06-02-RNASociety-talk
 venue: "University of Colorado Boulder"
 date: 2022-06-02
-location: "Boulder, Colorado, USA"
+location: "Boulder, CO, USA"
 ---
 
 Liu was invited to give a prentation at the [27th Annual Meeting of the RNA Society](https://www2.rnasociety.org/conferences/rna-2022/). Liu also received a research presentation fellowship from RNA society.

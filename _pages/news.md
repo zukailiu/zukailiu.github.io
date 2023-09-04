@@ -23,7 +23,7 @@ layout: archive
 
 <br>2022.03 Zukai received the Research Presentation Fellowship from RNA Society.
 
-<br>2022.03 The research article, ["PUMILIO proteins promote colorectal cancer growth via suppressing p21"](https://doi.org/10.1038/s41467-022-29309-1), that Zukai co-first authored, got accepted by Nature Communications.
+<br>2022.03 The research article, ["PUMILIO proteins promote colorectal cancer growth via suppressing p21"](https://doi.org/10.1038/s41467-022-29309-1), that Zukai co-first authored, got published by Nature Communications.
 
 <br>2021.12 Zukai gave a talk, "Modeling Extra-Embryonic Mesoderm Lineage Development With Human Induced Pluripotent Stem Cells", at the Society for the Study of Reproduction (SSR) 54th Annual Meeting.
 
@@ -33,4 +33,4 @@ layout: archive
 
 <br>2020.06 Zukai passed the preliminary oral defense and became a formal Ph.D. candidate at Uconn Health.
 
-<br>2019.12 The research article, ["Transplanting cells from old but not young donors causes physical dysfunction in older recipients."](https://doi.org/10.1111/acel.13106), that Zukai co-first authored, got accepted by Aging Cell.
+<br>2019.12 The research article, ["Transplanting cells from old but not young donors causes physical dysfunction in older recipients"](https://doi.org/10.1111/acel.13106), that Zukai co-first authored, got accepted by Aging Cell.
