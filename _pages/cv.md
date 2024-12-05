@@ -8,10 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+Professional Experience
+======
+* Postdoctoral fellow, University of Washington, 2024 -
+* Postdoctoral fellow, The Jackson Laboratory, 2023
 
 Education
 ======
-* Ph.D in Biomedical Science, Uconn Health, 2023 winter (expected)
+* Ph.D in Biomedical Science, Uconn Health, 2023
 * M.S. in Developmental Biology, Chinese Academy of Sciences, 2018
 * B.S. in Biotechnology, Zhejiang University, 2015
 
@@ -19,16 +23,16 @@ Education
 Research Experience
 ======
 - Modeling extra-embryonic mesenchymal cell (ExMC) lineages in the early embryonic development by human induced pluripotent stem cell
-  - *Supervisor: Dr. Paul Robson, Aug 2023 - Present*
+  - *Supervisor: Dr. Paul Robson, Aug 2019 - Nov 2023*
   - Generated a novel cell model for the ExMC lineage.
   - Revealed the key regulators for the ExMC commitment and differentiation.
   - Demonstrated the evolution and biological function of ExMC.
 
+
 - Developing tools for multiplexed transcriptome engineering based on CRISPR RNA scaffold
-  - *Supervisor: Dr. Albert Cheng & Dr. Paul Robson, Aug 2019 - Jun 2023*
+  - *Supervisor: Dr. Albert Cheng & Dr. Paul Robson, Aug 2019 - Dec 2022*
   - Designed CREST architecture for multifunctional RNA editing and validated its capability on simultaneously induction of alternative splicing, A-to-G and C-to-U base editing.
   - Reconstituted split ADAR2 enzyme activity on desired transcript with CREST at high efficiency. 
-
 
 
 - Dissecting side effect of transplanting cells from aged donor by single cell analysis
@@ -36,6 +40,7 @@ Research Experience
   - Identified the senescent cell population in the human adipose cells from aged donor.
   - Described the side effects of transplanting senescent cells from aged donor to young mice.
   - Revealed the key singling pathways involved in the senescent cell.
+
 
 - Investigating the function of RNA binding protein and miRNAs in tumorigenesis
   - *Supervisor: Dr. Haifan Lin, Oct 2016 – Jun 2018*
@@ -52,7 +57,7 @@ Skills
   
 Mentoring Experience
 ======
-- Carla D'Amato(Purdue University), Summer Student at the Jackson Laboratory, 2023
-- Abraham López(Case Western Reserve University), Summer Student at the Jackson Laboratory, 2021
+- Carla D'Amato (Purdue University), Summer Student Program (SSP) at the Jackson Laboratory, 2023
+- Abraham López (Case Western Reserve University), Summer Student Program (SSP) at the Jackson Laboratory, 2021
 - iGEM team at Shanghaitech University China, 2016
 

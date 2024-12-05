@@ -3,6 +3,15 @@ permalink: /news/
 author_profile: true
 layout: archive
 ---
+<br>2024.04 Zukai started his postdoctoral research with Dr. Jay Shendure & Dr. Nobuhiko Hamazaki, at University of Washington. 
+
+<br>2024.02 Zukai presented a talk, "The human trophoblast lineage gives rise to extra-embryonic mesenchyme emphasizing early development as a rich source of evolutionary innovation", at Stem Cell Models for Embryology | Keystone Symposia.
+
+<br>2024.01 Zukai received the Keystone Symposia Future of Science Fund Scholarship.
+
+<br>2023.11 Zukai successfully passed his Ph.D. defense and is officially a Ph.D.!
+
+
 <br>2023.08 The research article, ["Simultaneous multifunctional transcriptome engineering by CRISPR RNA scaffold"](https://doi.org/10.1093/nar/gkad547), that Zukai first authored, got published on Nucleic Acids Research.
 
 <br>2023.06 Zukai presented a talk, "Simultaneously multi-functional transcriptome engineering by CRISPR RNA scaffold", at the 5th Annual RNA Therapeutics Conference, RNA Therapeutics Institute (RTI), UMass Medical School. 
