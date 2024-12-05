@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zukai Liu"
 title_separator          : "-"
 name                     : &name "Zukai Liu 刘族凯"
-description              : &description "Postdoc at University of Washington"
+description              : &description "Postdoc at UW"
 url                      : https://zukailiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zukailiu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zukai Liu"
   avatar           : "Zukai_Liu.png"
-  bio              : "Postdoc at University of Washington"
+  bio              : "Postdoc at UW"
   location         : "Seattle, WA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

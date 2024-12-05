@@ -20,6 +20,8 @@ Education
 * B.S. in Biotechnology, Zhejiang University, 2015
 
 
+<!-- This is commented out. -->
+
 Research Experience
 ======
 - Modeling extra-embryonic mesenchymal cell (ExMC) lineages in the early embryonic development by human induced pluripotent stem cell
@@ -47,7 +49,8 @@ Research Experience
   - Revealed that PUMILIOs promote colorectal cancer growth and identified p21 transcript as the key target of PUMILIOs.
   - Demonstrated that miR221/2 promote TNBC progression by activating WNT signaling pathway.
 
-  
+<!-- This is commented out. -->
+
 Skills
 ======
 - **Molecular and cellular biology**: bacterial culture, cloning, western blotting, RT-qPCR, immunostaining, confocal microscopy, phenix, flow cytometry, ChIP-seq, RNA-seq, mammalian cell culture, hiPSC culture for 2D differentiation and 3D organoids generation etc.
