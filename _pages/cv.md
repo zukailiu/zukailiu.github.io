@@ -22,5 +22,5 @@ Education
 Skills
 ======
 - **Molecular and cellular biology**: bacterial culture, cloning, western blotting, RT-qPCR, immunostaining, confocal microscopy, phenix, flow cytometry, ChIP-seq, RNA-seq, mammalian cell culture, hiPSC culture for 2D differentiation and 3D organoids generation etc.
-- **Bioinformatics**: R and Python, scRNA-seq (cell clustering and annotation, marker genes identification, cell-cell communications, integration of multiple datasets etc), bulk RNA-seq (gene expression, base editing, alternative splicing etc), ChIP-seq.  * Sub-skill 2.1
+- **Bioinformatics**: R and Python, scRNA-seq (cell clustering and annotation, marker genes identification, cell-cell communications, integration of multiple datasets etc), bulk RNA-seq (gene expression, base editing, alternative splicing etc), ChIP-seq. 
 - **Gene manipulation**: transfection, nucleofection, siRNA, shRNA, CRISPR/Cas9 knock-out and knock-in, CRISPR/Cas13 RNA editing.
