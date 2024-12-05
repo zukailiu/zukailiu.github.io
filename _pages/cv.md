@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 Professional Experience
 ======
-* Postdoctoral fellow, University of Washington, 2024 -
-* Postdoctoral fellow, The Jackson Laboratory, 2023
+* Postdoctoral fellow, University of Washington, 2024 - now
+* Postdoctoral fellow, The Jackson Laboratory, 2023 - 2024
 
 Education
 ======
-* Ph.D in Biomedical Science, Uconn Health, 2023
+* Ph.D in Biomedical Science, Uconn Health / University of Connecticut, 2023
 * M.S. in Developmental Biology, Chinese Academy of Sciences, 2018
 * B.S. in Biotechnology, Zhejiang University, 2015
 
