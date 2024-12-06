@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zukai Liu"
 title_separator          : "-"
-name                     : &name "Zukai Liu 刘族凯"
+name                     : &name "Zukai Liu"
 description              : &description "This is Zukai Liu's personal website."
 url                      : https://zukailiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zukai Liu"
   avatar           : "Zukai_Liu.png"
-  bio              : "Postdoctoral Researcher at the University of Washington"
+  bio              : "Postdoctoral Fellow at the University of Washington"
   location         : "Seattle, WA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : # "@liu_zukai"
+  twitter          : "@liu_zukai"
   vine             :
   weibo            :
   xing             :
