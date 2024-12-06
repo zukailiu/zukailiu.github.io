@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 Professional Experience
 ======
-* Postdoctoral fellow, University of Washington, 2024 - now
-* Postdoctoral fellow, The Jackson Laboratory, 2023 - 2024
+* Postdoctoral researcher, University of Washington, 2024 - now
+* Postdoctoral Researcher, The Jackson Laboratory, 2023 - 2024
 
 Education
 ======
