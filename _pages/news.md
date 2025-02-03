@@ -4,8 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-# 2025 
-- Jan: Zukai was selected as a 2025 Washington Research Foundation (WRF) Postdoctoral Fellow.
+# 2025
+- Jan: Zukai was selected as a 2025 [Washington Research Foundation (WRF) Postdoctoral Fellow](https://www.wrfseattle.org/grants/fellows/)! WRF Postdoctoral Fellows are funded for three years at eligible institutions in Washington state to work on ambitious projects addressing major public needs.
 
 # 2024
 - Apr: Zukai began his postdoctoral research at University of Washington. 
