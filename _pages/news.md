@@ -53,6 +53,8 @@ author_profile: true
 # 2021
 - Oct: Zukai presented a talk, "Modeling Extra-Embryonic Mesoderm Lineage Development With Human Induced Pluripotent Stem Cells", at the Scientific Symposium at the Jackson Laboratory.
 
+# 2020
+
 - Jun: Zukai passed his preliminary oral defense and advanced to Ph.D. candidacy at UConn Health.
 
 # 2019
