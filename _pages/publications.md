@@ -35,7 +35,7 @@ Note: # means co-first author.
 
 <li> Adli, M., Przybyla, L., Burdett, T., Burridge, P. W., Cacheiro, P., Chang, H. Y., ... & The MorPhiC Consortium. 2025. <a href="https://doi.org/10.1038/s41586-024-08243-w"> MorPhiC Consortium: towards functional characterization of all human genes.</a> Nature. 2025 Feb 13;638(8050):351-9. </li>
 
-<li> Hu, J., Zhang, J., Yu, M., <b>Liu, Z.</b>, Zou, Y., Hong, L., Zhang, T., Sun, J., Zheng, M., Zhu, X. and Wang, Z., 2021. <a href="https://doi.org/10.1093/abbs/gmab106">Circulating miR-221/222 reduces CD4+ T cells by inhibiting CD4 expression in colorectal cancer.</a> Acta Biochimica et Biophysica Sinica. 2021 Oct 1;53(10):1367-76.</li>
+<li> Hu, J., Zhang, J., Yu, M., <b>Liu, Z.</b>, Zou, Y., Hong, L., Zhang, T., Sun, J., Zheng, M., Zhu, X. Wang, Z. and Liu, S., 2021. <a href="https://doi.org/10.1093/abbs/gmab106">Circulating miR-221/222 reduces CD4+ T cells by inhibiting CD4 expression in colorectal cancer.</a> Acta Biochimica et Biophysica Sinica. 2021 Oct 1;53(10):1367-76.</li>
 
 <li> Wang, J., Ding, K., Chen, Y., Zhang, L., <b>Liu, Z.</b>, Xue, A., Gu, W., Yang, X., Li, X., Huang, J. and Xing, C., 2014. <a href="https://doi.org/10.1021/sb500018f">Detection of thrombin with an aptamer-based macromolecule biosensor using bacterial ghost system.</a> ACS Synthetic Biology. 2014 Dec 19;3(12):963-5.</li>
 
