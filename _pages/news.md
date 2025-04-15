@@ -5,6 +5,10 @@ permalink: /news/
 author_profile: true
 ---
 # 2025
+- Apr: Zukai published the research paper ["HAND1, partially mediated through ape-specific LTR binding, is essential for human extra-embryonic mesenchyme derivation from iPSCs"](https://doi.org/10.1016/j.celrep.2025.115568) on Cell Reports.
+- 
+- Feb: Zukai published the perspective paper ["MorPhiC Consortium: towards functional characterization of all human genes"](https://doi.org/10.1038/s41586-024-08243-w) on Nature. Zukai was the co author and part of The MorPhiC Consortium.
+
 - Jan: Zukai was selected as a 2025 [Washington Research Foundation (WRF) Postdoctoral Fellow](https://www.wrfseattle.org/grants/fellows/)! WRF Postdoctoral Fellows are funded for three years at eligible institutions in Washington state to work on ambitious projects addressing major public needs.
 
 # 2024

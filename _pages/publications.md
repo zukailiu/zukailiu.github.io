@@ -15,9 +15,9 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 <h1>First/co-First Author</h1>
 <ol>
 
-<li> <b>Liu, Z.</b>, Tan, Y., Flynn, W., Sun, L., Pratumkaew, P., Diniz, J., Oliveira, N., McDonough, J., Skarnes, W., Robson P., (2025+). A trophoblast origin of extra-embryonic mesenchyme in human early development. <i>Under Revision</i> </li>
+<li> <b>Liu, Z.</b>, Liu, Z., Tan, Y., Flynn, W.F., Sun, L., Pratumkaew, P., Diniz, J.A., Oliveira, N.A., McDonough, J.A., Skarnes, W.C. and Robson, P., 2025. <a href="https://doi.org/10.1016/j.celrep.2025.115568"> HAND1, partially mediated through ape-specific LTR binding, is essential for human extra-embryonic mesenchyme derivation from iPSCs. Cell Reports, 44(4). </li>
 
-<li> <b>Liu, Z.*</b>, Jillette N. Robson, P., Cheng, A.W., 2023. <a href="https://doi.org/10.1093/nar/gkad547"> Simultaneous multifunctional transcriptome engineering by CRISPR RNA scaffold.</a> Nucleic Acids Research.  Volume 51, Issue 14, 11 August 2023, Page e77. </li>
+<li> <b>Liu, Z.</b>, Jillette N. Robson, P., Cheng, A.W., 2023. <a href="https://doi.org/10.1093/nar/gkad547"> Simultaneous multifunctional transcriptome engineering by CRISPR RNA scaffold.</a> Nucleic Acids Research.  Volume 51, Issue 14, 11 August 2023, Page e77. </li>
 
 <li> Gong, Y.#, <b>Liu, Z.#</b>, Yuan, Y.#, Yang, Z.#, Zhang, J., Lu, Q., Wang, W., Fang, C., Lin, H. and Liu, S., 2022. <a href="https://doi.org/10.1038/s41467-022-29309-1">PUMILIO proteins promote colorectal cancer growth via suppressing p21.</a> Nature communications, 13(1), p.1627.</li>
 
@@ -33,6 +33,8 @@ Note: # means co-first author.
 
 <h1>Other</h1>
 <ol>
+
+<li> Adli, M., Przybyla, L., Burdett, T., Burridge, P. W., Cacheiro, P., Chang, H. Y., ... & The MorPhiC Consortium. 2025. <a href="https://doi.org/10.1038/s41586-024-08243-w">MorPhiC Consortium: towards functional characterization of all human genes. </a> Nature, 638(8050), 351-359.</li>
 
 <li> Hu, J., Zhang, J., Yu, M., <b>Liu, Z.</b>, Zou, Y., Hong, L., Zhang, T., Sun, J., Zheng, M., Zhu, X. and Wang, Z., 2021. <a href="https://doi.org/10.1093/abbs/gmab106">Circulating miR-221/222 reduces CD4+ T cells by inhibiting CD4 expression in colorectal cancer. Acta Biochimica et Biophysica Sinica, </a> 53(10), pp.1367-1376.</li>
 
